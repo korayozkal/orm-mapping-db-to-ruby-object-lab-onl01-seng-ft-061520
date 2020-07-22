@@ -67,6 +67,9 @@ def self.students_below_12th_grade
     end
   end
   
+  def self.students_below_12th_grade
+  
+  
   ####################
   
    def self.create_table
